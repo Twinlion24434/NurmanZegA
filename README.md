@@ -4,7 +4,7 @@ This tool has been developed for educational and research purposes, with the aim
 
 git clone https://github.com/Twinlion24434/NurmanZegA.git
 
-▪ cd NurmanZega.py
+▪ cd NurmanZegA
 
 ▪ chmod +x NurmanZega.py
 
